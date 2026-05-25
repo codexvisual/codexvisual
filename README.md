@@ -1,65 +1,120 @@
-<!-- ================= ULTRA PREMIUM LANDING PAGE v2 ================= -->
+<!-- ================= TOP HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=220&section=header&text=CODEXVISUAL&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Moklasur%20Rahman%20Rahat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=23&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+SaaS+Products;Full+Stack+%7C+Mobile+%7C+AI+Engineer;Microservices+%26+Cloud+Architect;From+Idea+to+Production+Systems;Designing+Software+That+Scales" />
-</p>
-
----
-
-## ⚡ DIGITAL PRODUCT ENGINEER
-
-<p align="center">
-<b>I build high-performance software systems that scale like startups and feel like premium products.</b>
-</p>
-
-<p align="center">
-Web Apps • Mobile Apps • SaaS Platforms • AI Systems • Cloud Architectures
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Software+Engineer;SaaS+%26+Startup+Builder;Mobile+App+Developer;AI+Automation+Engineer;Cloud+%26+Microservices+Architect;Turning+Ideas+into+Scalable+Products" />
 </p>
 
 ---
 
-## 🧭 CORE IDENTITY
+<!-- ================= STATUS BADGES ================= -->
 
-
-
-### 🚀 What Defines Me
-
-- 🧠 Product-focused engineering mindset  
-- ⚙️ Clean architecture & scalable backend design  
-- ☁️ Cloud-native SaaS development  
-- 🤖 AI integration & automation systems  
-- 📱 Cross-platform mobile development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00C2FF?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20AI%20%7C%20Cloud-7C3AED?style=for-the-badge&logo=aws" />
+  <img src="https://img.shields.io/badge/Level-Advanced%20Engineer-22C55E?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## 🏗️ WHAT I BUILD (PRODUCT ZONE)
+## 🌌 ABOUT ME
 
 
 
-### 🌐 SaaS Platforms
-Subscription-based systems with authentication, billing, analytics, and admin panels.
+I am a **Full Stack Software Engineer** focused on building **real-world scalable systems**.
 
-### 📱 Mobile Applications
-Flutter & React Native apps optimized for performance and UX.
+### 🚀 I specialize in:
+- SaaS Platforms (Subscription-based systems)
+- Mobile Applications (Flutter / React Native)
+- Backend Systems (APIs / Microservices)
+- AI Automation (ChatGPT integrations, bots)
+- Cloud Infrastructure (AWS, Docker, CI/CD)
+
+---
+
+## 🧠 WHAT I BUILD
+
+
+
+### 🌐 SaaS Products
+Subscription-based platforms with dashboards, billing, and analytics.
+
+### 📱 Mobile Apps
+Cross-platform apps with smooth UX and production performance.
 
 ### ⚙️ Backend Systems
-Scalable APIs, microservices, authentication systems, and database architecture.
+Secure APIs, authentication, scalable databases, microservices.
 
 ### 🤖 AI Automation
-ChatGPT API integration, smart workflows, bots, and productivity automation tools.
+Smart workflows, bots, API integrations, productivity tools.
 
 ---
 
-## 🧠 ENGINEERING STACK
+## 🛠️ TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,laravel,php,flutter,docker,aws,firebase,mysql,postgres,mongodb,git,linux,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,laravel,php,flutter,android,docker,aws,firebase,mysql,postgres,mongodb,git,linux,tailwind" />
 </p>
 
 ---
 
-## 🧩 SYSTEM DESIGN PHILOSOPHY
+## 🧩 SYSTEM ARCHITECTURE
+---
+
+## 📊 GITHUB PERFORMANCE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codexvisual&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codexvisual&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Codexvisual&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 FEATURED ENGINEERING ENVIRONMENT
+
+
+
+- Scalable system design  
+- Clean architecture patterns  
+- API-first development  
+- Cloud-native deployment  
+- Performance optimization  
+
+---
+
+## 🌍 CONNECT WITH ME
+
+<p align="center">
+  <a href="mailto:rahat830611@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Now-00C2FF?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Codexvisual">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 💎 FINAL BRAND STATEMENT
+
+<p align="center">
+<b>I don’t just code — I engineer scalable digital ecosystems that power real businesses.</b>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer" />
+</p>
