@@ -1,274 +1,76 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,25:004e92,50:00F5FF,75:7C3AED,100:000428&text=CODEXVISUAL&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:000428,20:004e92,50:00F5FF,80:7C3AED,100:000428&text=CODEXVISUAL&fontColor=ffffff&fontSize=78&fontAlignY=40&animation=fadeIn"/>
 
 # ⚡ MOKLASUR RAHMAN RAHAT
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=1200&lines=Full+Stack+Software+Engineer;AI+Automation+Engineer;Cloud+Infrastructure+Architect;Laravel+Expert;Flutter+Developer;ASP.NET+Developer;SaaS+Founder;Building+Digital+Products+That+Scale;Turning+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=1100&lines=Full+Stack+Software+Engineer;AI+Automation+Engineer;Cloud+Architect;SaaS+Builder;Laravel+%7C+Node.js+%7C+Flutter+Expert;Microservices+%26+Scalable+Systems"/>
 
-<p>
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Codexvisual&style=for-the-badge&color=00F5FF"/>
 <img src="https://img.shields.io/github/followers/Codexvisual?style=for-the-badge&color=7C3AED"/>
 <img src="https://img.shields.io/github/stars/Codexvisual?style=for-the-badge&color=00C853"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Available%20for-Hire-00F5FF?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20SOURCE%20BUILDER-00F5FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- SVG LOGO -->
+<svg width="240" height="240" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#004E92"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="210" cy="210" r="150" stroke="url(#grad)" stroke-width="6" fill="none">
+    <animateTransform attributeName="transform" type="rotate" from="0 210 210" to="360 210 210" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="210" cy="210" r="180" stroke="#00F5FF" stroke-width="2" fill="none" opacity="0.2">
+    <animate attributeName="r" values="170;185;170" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="210" cy="210" r="110" fill="url(#grad)" opacity="0.15"/>
+
+  <text x="50%" y="48%" text-anchor="middle" fill="#00F5FF" font-size="36" font-family="Arial Black" filter="url(#glow)">
+    CODEX
+  </text>
+
+  <text x="50%" y="60%" text-anchor="middle" fill="#ffffff" font-size="18" font-family="Arial">
+    VISUAL
+  </text>
+
+</svg>
 
 </div>
 
 ---
 
-# 🌌 DIGITAL PROFILE
+## 🌌 ABOUT ME
 
 ```yaml
 Name: Moklasur Rahman Rahat
-Username: Codexvisual
+Brand: Codexvisual
 
-Role:
+Roles:
   - Full Stack Developer
-  - Mobile App Developer
-  - Software Engineer
+  - Software Architect
   - AI Automation Engineer
-  - Cloud Architect
-
-Tech:
-  - Laravel
-  - Node.js
-  - ASP.NET
-  - Flutter
-  - React
-  - Next.js
-
-Focus:
-  - SaaS Products
-  - ERP Systems
-  - AI Applications
-  - Enterprise Software
-  - Automation Platforms
 
 Mission:
-  Build scalable intelligent software
-  for businesses worldwide.
+  Build scalable SaaS and AI-powered systems
 
----
-
-# 🚀 TECH UNIVERSE
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap"/>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,dotnet"/>
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio"/>
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
-
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,aws,firebase,linux,git,github"/>
-
-</div>
-
----
-
-# 🧠 SYSTEM ARCHITECTURE
-
-```text
-
-                ┌─────────────────────────────────────────┐
-                │               CDN / WAF                 │
-                │     (CloudFront + AWS Shield)           │
-                └──────────────────┬──────────────────────┘
-                                   │
-                                   ▼
-                ┌─────────────────────────────────────────┐
-                │             Load Balancer               │
-                │         (Application Load Balancer)     │
-                └────────────┬───────────────┬────────────┘
-                             │               │
-                             ▼               ▼
-             ┌─────────────────────┐ ┌─────────────────────┐
-             │   Web App (React /  │ │ Mobile App (Flutter)│
-             │   Next.js + PWA)    │ │                     │
-             └──────────┬──────────┘ └──────────┬──────────┘
-                        │                       │
-                        └───────────┬───────────┘
-                                    │
-                                    ▼
-             ┌─────────────────────────────────────────────┐
-             │         API Gateway (Kong / Traefik)        │
-             │   Rate Limiting | Auth | CORS | Versioning  │
-             └──┬──────────────┬──────────────┬────────────┘
-                │              │              │
-┌───────────────▼─┐  ┌────────▼────────┐  ┌──▼──────────────┐
-│  Laravel API    │  │ Node.js Micro   │  │ ASP.NET Core    │
-│  (Monolith)     │  │ Services (Nest) │  │ (Enterprise)    │
-└────────┬────────┘  └────────┬────────┘  └────────┬────────┘
-         │                    │                    │
-         └────────────────────┼────────────────────┘
-                              │
-                  ┌───────────┼───────────┐
-                  │           │           │
-                  ▼           ▼           ▼
-      ┌────────────────┐ ┌──────────┐ ┌──────────────────┐
-      │  PostgreSQL /  │ │  Redis   │ │ RabbitMQ / Kafka │
-      │  MySQL Cluster │ │  Cache   │ │   Message Queue  │
-      └────────────────┘ └──────────┘ └──────────────────┘
-                  │
-                  ▼
-      ┌─────────────────────────────────────┐
-      │       Object Storage (AWS S3)       │
-      │   File Uploads / Static Assets      │
-      └─────────────────────────────────────┘
-                  │
-                  ▼
-      ┌─────────────────────────────────────┐
-      │   Monitoring & Logging (ELK /       │
-      │   Prometheus + Grafana)             │
-      └─────────────────────────────────────┘
-
-📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codexvisual&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENT TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Codexvisual&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Codexvisual/Codexvisual/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# ⏱️ WAKATIME CODING STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎵 NOW PLAYING ON SPOTIFY
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</div>
-
----
-
-# 💻 LEETCODE STATS
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito"/>
-
-</div>
-
----
-
-# 🏅 HACKERRANK
-
-<div align="center">
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</div>
-
----
-
-# 🎖️ HOLOPIN BADGES
-
-<div align="center">
-
-[![An image of @YOURNAME's Holopin badges](https://holopin.io/api/user/board?user=YOURNAME)](https://holopin.io/@YOURNAME)
-
-</div>
-
----
-
-# 🔥 CURRENT OBJECTIVES
-
-- SaaS Product Development
-- AI Automation Systems
-- Cloud Native Applications
-- Enterprise ERP Solutions
-- Microservices Architecture
-- Kubernetes Learning
-- Open Source Contributions
-
----
-
-# 🌎 CONNECT
-
-<div align="center">
-
-<a href="mailto:rahat830611@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Codexvisual">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/rahat830611">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-# 💎 ENGINEERING PHILOSOPHY
-
-> Great software is not just written.
->
-> It is architected, automated, optimized and scaled.
-
----
-
-# ⚡ DEVELOPER METRICS
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/Codexvisual?template=classic&isocalendar=1&languages=1&achievements=1&followup=1&repositories=1&stars=1"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 CODEXVISUAL
-
-### Building Intelligent Digital Ecosystems
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000428,25:004e92,50:00F5FF,75:7C3AED,100:000428"/>
-
-</div>
+Vision:
+  Turn ideas into production-ready products
