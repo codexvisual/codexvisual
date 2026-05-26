@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/github/followers/Codexvisual?style=for-the-badge&color=7C3AED"/>
 <img src="https://img.shields.io/github/stars/Codexvisual?style=for-the-badge&color=00C853"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Available%20for-Hire-00F5FF?style=for-the-badge"/>
 </p>
 
 </div>
@@ -48,7 +49,6 @@ Focus:
 Mission:
   Build scalable intelligent software
   for businesses worldwide.
-```
 
 ---
 
@@ -78,31 +78,60 @@ Mission:
 # 🧠 SYSTEM ARCHITECTURE
 
 ```text
-                 ┌────────────────────┐
-                 │   Frontend Layer   │
-                 └─────────┬──────────┘
-                           │
-                           ▼
-                 ┌────────────────────┐
-                 │    API Gateway     │
-                 └─────────┬──────────┘
-                           │
-      ┌────────────────────┼────────────────────┐
-      ▼                    ▼                    ▼
 
- Authentication     Business Logic        AI Services
+                ┌─────────────────────────────────────────┐
+                │               CDN / WAF                 │
+                │     (CloudFront + AWS Shield)           │
+                └──────────────────┬──────────────────────┘
+                                   │
+                                   ▼
+                ┌─────────────────────────────────────────┐
+                │             Load Balancer               │
+                │         (Application Load Balancer)     │
+                └────────────┬───────────────┬────────────┘
+                             │               │
+                             ▼               ▼
+             ┌─────────────────────┐ ┌─────────────────────┐
+             │   Web App (React /  │ │ Mobile App (Flutter)│
+             │   Next.js + PWA)    │ │                     │
+             └──────────┬──────────┘ └──────────┬──────────┘
+                        │                       │
+                        └───────────┬───────────┘
+                                    │
+                                    ▼
+             ┌─────────────────────────────────────────────┐
+             │         API Gateway (Kong / Traefik)        │
+             │   Rate Limiting | Auth | CORS | Versioning  │
+             └──┬──────────────┬──────────────┬────────────┘
+                │              │              │
+┌───────────────▼─┐  ┌────────▼────────┐  ┌──▼──────────────┐
+│  Laravel API    │  │ Node.js Micro   │  │ ASP.NET Core    │
+│  (Monolith)     │  │ Services (Nest) │  │ (Enterprise)    │
+└────────┬────────┘  └────────┬────────┘  └────────┬────────┘
+         │                    │                    │
+         └────────────────────┼────────────────────┘
+                              │
+                  ┌───────────┼───────────┐
+                  │           │           │
+                  ▼           ▼           ▼
+      ┌────────────────┐ ┌──────────┐ ┌──────────────────┐
+      │  PostgreSQL /  │ │  Redis   │ │ RabbitMQ / Kafka │
+      │  MySQL Cluster │ │  Cache   │ │   Message Queue  │
+      └────────────────┘ └──────────┘ └──────────────────┘
+                  │
+                  ▼
+      ┌─────────────────────────────────────┐
+      │       Object Storage (AWS S3)       │
+      │   File Uploads / Static Assets      │
+      └─────────────────────────────────────┘
+                  │
+                  ▼
+      ┌─────────────────────────────────────┐
+      │   Monitoring & Logging (ELK /       │
+      │   Prometheus + Grafana)             │
+      └─────────────────────────────────────┘
 
-      ▼                    ▼                    ▼
-
- PostgreSQL         Microservices        OpenAI APIs
-
-      ▼                    ▼                    ▼
-
- Docker → CI/CD → AWS → Monitoring → Scaling
-```
-
-
-# 📈 CONTRIBUTION GRAPH
+📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
