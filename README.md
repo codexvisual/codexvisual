@@ -52,34 +52,6 @@
 
 # 🧠 SYSTEM ARCHITECTURE
 
-```text
-                 ┌────────────────────┐
-                 │   Frontend Layer   │
-                 └─────────┬──────────┘
-                           │
-                           ▼
-                 ┌────────────────────┐
-                 │    API Gateway     │
-                 └─────────┬──────────┘
-                           │
-      ┌────────────────────┼────────────────────┐
-      ▼                    ▼                    ▼
-
- Authentication     Business Logic        AI Services
-
-      ▼                    ▼                    ▼
-
- PostgreSQL         Microservices        OpenAI APIs
-
-      ▼                    ▼                    ▼
-
- Docker → CI/CD → AWS → Monitoring → Scaling
-```
-
----
-
-
-
 # 📈 CONTRIBUTION GRAPH
 
 <div align="center">
