@@ -1,0 +1,193 @@
+
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:7C3AED,100:EC4899&height=200&section=header&text=Moklasur%20Rahman%20Rahat&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Educator%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=true&width=600&lines=👋+Hello%2C+World!+I'm+Rahat;⚡+Full-Stack+Developer+%7C+Laravel+Expert;🐍+Django+Wizard+%7C+React+Enthusiast;✨+Tech+Educator+%7C+Open+Source+Lover;🚀+Building+Scalable+Web+Solutions;☕+Powered+by+Coffee+%26+Clean+Code" alt="Typing SVG" />
+
+<br/>
+
+<!-- BADGES ROW -->
+<a href="https://github.com/codexvisual">
+  <img src="https://komarev.com/ghpvc/?username=codexvisual&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+&nbsp;
+<a href="https://github.com/codexvisual?tab=followers">
+  <img src="https://img.shields.io/github/followers/codexvisual?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED" alt="Followers"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-34D399?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-Bangladesh%20🇧🇩-EC4899?style=for-the-badge" alt="Location"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+// moklasur-rahman-rahat.config.js
+
+const developer = {
+  fullName  : "Moklasur Rahman Rahat",
+  alias     : "codexvisual",
+  role      : "Full-Stack Developer & Tech Educator",
+  location  : "Bangladesh 🇧🇩",
+  stack     : ["Laravel", "Django", "React", "Next.js", "Tailwind"],
+  languages : ["PHP", "Python", "JavaScript", "TypeScript"],
+  database  : ["MySQL", "PostgreSQL", "SQLite"],
+  devOps    : ["Docker", "Linux", "Git", "VS Code"],
+  learning  : ["AI Integration", "Vue 3", "AWS Cloud", "Rust"],
+  openToWork: true,
+  philosophy: "First, solve the problem. Then, write the code.",
+};
+```
+
+> 🎯 I'm a passionate **Full-Stack Developer** who treats code like an art form. From robust backend architectures to pixel-perfect frontend experiences — I live by one principle: **clean code, best practices, zero compromises.**
+
+- 🔭 Currently working on **scalable web platforms**
+- 🌱 Currently learning **AI Integration & Cloud Architecture**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Laravel, Django, React, System Design**
+- ⚡ Fun fact: **Best code written after midnight with coffee ☕**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codexvisual&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codexvisual&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=EC4899&currStreakLabel=7C3AED&sideLabels=38B2AC&dates=64748B" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexvisual&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codexvisual&theme=react-dark&hide_border=true&bg_color=0D1117&color=38B2AC&line=7C3AED&point=EC4899&area=true&area_color=38B2AC" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=codexvisual&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/codexvisual/blog">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="Blog Platform"/>
+</a>
+<a href="https://github.com/codexvisual/html-admin-panel">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=html-admin-panel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="Admin Panel"/>
+</a>
+
+<a href="https://github.com/codexvisual/job">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=job&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="Job Portal"/>
+</a>
+<a href="https://github.com/codexvisual/agriculture">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=agriculture&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="AgriSmart"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+PHP          ██████████████░░░░░░░   40.0%
+Python       ████████░░░░░░░░░░░░░   25.0%
+JavaScript   █████░░░░░░░░░░░░░░░░   18.0%
+CSS          ███░░░░░░░░░░░░░░░░░░   10.0%
+Other        ██░░░░░░░░░░░░░░░░░░░    7.0%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:rahat830611@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/rahat830611">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/codexvisual">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/rahat830611">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<br/><br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codexvisual/codexvisual/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codexvisual/codexvisual/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/codexvisual/codexvisual/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:38B2AC&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
