@@ -4,10 +4,8 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:7C3AED,100:EC4899&height=200&section=header&text=Moklasur%20Rahman%20Rahat&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Educator%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=true&width=600&lines=👋+Hello%2C+World!+I'm+Rahat;⚡+Full-Stack+Developer+%7C+Laravel+Expert;🐍+Django+Wizard+%7C+React+Enthusiast;✨+Tech+Educator+%7C+Open+Source+Lover;🚀+Building+Scalable+Web+Solutions;☕+Powered+by+Coffee+%26+Clean+Code" alt="Typing SVG" />
 
-<br/>
+
 
 <!-- BADGES ROW -->
 <a href="https://github.com/codexvisual">
