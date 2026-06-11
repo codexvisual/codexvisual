@@ -37,81 +37,34 @@
 - ⚡ Fun fact: **Best code written after midnight with coffee ☕**
 
 ---
+## 🛠️ Technology Stack
 
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<h3 align="left">🌐 Frontend Development</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<h3 align="left">⚙️ Backend & Frameworks</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<h3 align="left">☁️ Cloud, DevOps & Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codexvisual&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codexvisual&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=EC4899&currStreakLabel=7C3AED&sideLabels=38B2AC&dates=64748B" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexvisual&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codexvisual&theme=react-dark&hide_border=true&bg_color=0D1117&color=38B2AC&line=7C3AED&point=EC4899&area=true&area_color=38B2AC" alt="Contribution Graph"/>
-
-</div>
-
----
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/codexvisual/blog">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="Blog Platform"/>
-</a>
-<a href="https://github.com/codexvisual/html-admin-panel">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=html-admin-panel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="Admin Panel"/>
-</a>
-
-<a href="https://github.com/codexvisual/job">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=job&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="Job Portal"/>
-</a>
-<a href="https://github.com/codexvisual/agriculture">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codexvisual&repo=agriculture&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=7C3AED&text_color=C9D1D9" alt="AgriSmart"/>
-</a>
-
-</div>
 
 ---
 
