@@ -153,16 +153,5 @@ Other        ██░░░░░░░░░░░░░░░░░░░    
 
 <br/><br/>
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codexvisual/codexvisual/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codexvisual/codexvisual/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/codexvisual/codexvisual/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:38B2AC&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
