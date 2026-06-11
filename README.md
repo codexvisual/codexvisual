@@ -28,25 +28,7 @@
 
 ---
 
-## 👨‍💻 About Me
 
-```js
-// moklasur-rahman-rahat.config.js
-
-const developer = {
-  fullName  : "Moklasur Rahman Rahat",
-  alias     : "codexvisual",
-  role      : "Full-Stack Developer & Tech Educator",
-  location  : "Bangladesh 🇧🇩",
-  stack     : ["Laravel", "Django", "React", "Next.js", "Tailwind"],
-  languages : ["PHP", "Python", "JavaScript", "TypeScript"],
-  database  : ["MySQL", "PostgreSQL", "SQLite"],
-  devOps    : ["Docker", "Linux", "Git", "VS Code"],
-  learning  : ["AI Integration", "Vue 3", "AWS Cloud", "Rust"],
-  openToWork: true,
-  philosophy: "First, solve the problem. Then, write the code.",
-};
-```
 
 > 🎯 I'm a passionate **Full-Stack Developer** who treats code like an art form. From robust backend architectures to pixel-perfect frontend experiences — I live by one principle: **clean code, best practices, zero compromises.**
 
@@ -112,13 +94,6 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=codexvisual&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🚀 Featured Projects
 
