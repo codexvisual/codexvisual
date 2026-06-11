@@ -67,6 +67,27 @@
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=codexvisual&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=C9D1D9" height="170px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexvisual&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9" height="170px" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <!-- অ্যানিমেটেড কন্ট্রিবিউশন গ্রাফ -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexvisual&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+</div>
+
+---
 
 ## 📈 Coding Activity
 
