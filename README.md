@@ -1,13 +1,16 @@
-# 👋 Welcome to CodexVisual
+# 👋 Welcome to My Digital Workspace | I'm Rahat
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=codexvisual&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/codexvisual?style=social)](https://github.com/codexvisual)
+<!-- ডাইনামিক টাইপিং অ্যানিমেশন (Visual Highlight) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%26+Django+Expert;Open+Source+Enthusiast;Tech+Educator" alt="Typing SVG" />
 
-### 🎯 Full-Stack Developer | Open Source Enthusiast | Tech Educator
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codexvisual&color=38B2AC&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/codexvisual"><img src="https://img.shields.io/github/followers/codexvisual?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>
+</p>
 
-**Building innovative solutions with modern technologies**
+**Building innovative, scalable, and elegant web solutions**
 
 </div>
 
@@ -15,186 +18,82 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise across multiple programming languages and frameworks. I love creating elegant solutions to complex problems and sharing knowledge with the developer community.
-
-### 💼 Professional Focus
-- **Web Development**: React, Angular, Vue.js, Django, Flask
-- **Backend Development**: Python, Java, C#, ASP.NET, FastAPI
-- **Cloud & DevOps**: AWS, Docker, GitHub Actions
-- **Mobile Development**: Flutter
-- **Data Science**: Python, Data Analysis
+আমি একজন প্যাশনেট **Full-Stack Developer** এবং **Tech Educator**। ব্যাকএন্ড আর্কিটেকচার ডিজাইন করা থেকে শুরু করে ফ্রন্টএন্ডে চমৎকার ইউজার এক্সপেরিয়েন্স তৈরি করা—সবকিছুতেই ক্লিন কোড এবং বেস্ট প্র্যাকটিস বজায় রাখতে পছন্দ করি। নতুন টেকনোলজি শেখা এবং তা ডেভেলপার কমিউনিটির সাথে শেয়ার করাই আমার মূল লক্ষ্য।
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<h3 align="left">🌐 Frontend Development</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h3 align="left">⚙️ Backend & Frameworks</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h3 align="left">☁️ Cloud, DevOps & Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codexvisual&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codexvisual&layout=compact&theme=radical)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=codexvisual&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=C9D1D9" height="170px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexvisual&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9" height="170px" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <!-- অ্যানিমেটেড কন্ট্রিবিউশন গ্রাফ -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexvisual&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🌐 Full-Stack Web Applications
-- **[Blog Platform](https://github.com/codexvisual/blog)** - PHP-based blogging system with modern UI
-- **[Admin Panel](https://github.com/codexvisual/html-admin-panel)** - Responsive HTML/CSS/JS admin dashboard
-- **[Job Portal](https://github.com/codexvisual/job)** - Complete job listing and application system
-- **[Agricultural Platform](https://github.com/codexvisual/agriculture)** - Agriculture management system
+এখানে আমার সেরা কিছু কাজের নমুনা দেওয়া হলো যা আমার স্কিলসেটকে রিপ্রেজেন্ট করে:
 
-### 🎓 Framework & Technology Learning
-- **[Angular Projects](https://github.com/codexvisual/Angular)** - Component-based web applications
-- **[Django Projects](https://github.com/codexvisual/Django)** - Python MVT framework implementations
-- **[Flask Projects](https://github.com/codexvisual/Flask)** - Lightweight Python web framework
-- **[FastAPI Projects](https://github.com/codexvisual/FastAPI)** - High-performance async Python APIs
-- **[Flutter Mobile](https://github.com/codexvisual/flutter)** - Cross-platform mobile applications
-
-### 🔧 Utility & Tool Development
-- **[Developer Toolkit](https://github.com/codexvisual/Developers-Tool-Kit-)** - Essential developer tools
-- **[Data Scraping Tools](https://github.com/codexvisual/Data-Scrapping)** - Web scraping for lead generation
-
-### 🌍 Language-Specific Collections
-- **[JavaScript](https://github.com/codexvisual/Javascript)** - Modern JavaScript projects
-- **[Java](https://github.com/codexvisual/Java)** - Enterprise Java applications
-- **[Go](https://github.com/codexvisual/Go)** - Concurrent Go applications
-- **[C Programs](https://github.com/codexvisual/C-Programme-)** - Systems programming
-- **[Python Collections](https://github.com/codexvisual/AI)** - AI & automation projects
-
----
-
-## ⭐ Key Skills & Expertise
-
-### Development
-- ✅ Full-Stack Web Development
-- ✅ RESTful & GraphQL API Development
-- ✅ Database Design & Optimization
-- ✅ Microservices Architecture
-- ✅ Cloud-Native Development
-
-### DevOps & Infrastructure
-- ✅ Docker & Container Orchestration
-- ✅ AWS Cloud Services
-- ✅ CI/CD Pipelines (GitHub Actions)
-- ✅ Infrastructure as Code
-- ✅ Server Administration
-
-### Best Practices
-- ✅ SOLID Design Principles
-- ✅ Design Patterns Implementation
-- ✅ Clean Code Architecture
-- ✅ Test-Driven Development
-- ✅ Agile Methodologies
-
-### Professional
-- ✅ Technical Documentation
-- ✅ Code Review & Quality
-- ✅ Team Collaboration
-- ✅ Problem Solving
-- ✅ Continuous Learning
-
----
-
-## 🌟 Current Learning Goals
-
-- 🤖 AI & Machine Learning applications
-- 🔐 Advanced cybersecurity practices
-- ☁️ Kubernetes & container orchestration
-- 📱 Advanced mobile development
-- 🎯 System design patterns
-
----
-
-## 🤝 Open for Collaboration
-
-I'm interested in:
-- 🔗 **Open-source contributions** - Let's build great software together!
-- 💡 **Innovative projects** - Exciting ideas that solve real problems
-- 🎓 **Knowledge sharing** - Teaching and learning from the community
-- 🚀 **Product development** - Building next-generation applications
-- 📚 **Technical writing** - Creating helpful documentation
+*   🌐 **[Blog Platform](https://github.com/codexvisual/blog)** – আধুনিক UI/UX এবং সিকিউর ব্যাকএন্ড সহ একটি কমপ্লিট ব্লোগিং সিস্টেম।
+*   📊 **[Admin Panel](https://github.com/codexvisual/html-admin-panel)** – রেসপনসিভ এবং লাইটওয়েট ড্যাশবোর্ড টেমপ্লেট।
+*   💼 **[Job Portal](https://github.com/codexvisual/job)** – ডাইনামিক জব লিস্টিং এবং অ্যাপ্লিকেশন ম্যানেজমেন্ট সিস্টেম।
+*   🌱 **[Agricultural Platform](https://github.com/codexvisual/agriculture)** – কৃষি খাতের ডেটা ও কার্যক্রম পরিচালনার জন্য একটি স্মার্ট ওয়েব প্ল্যাটফর্ম।
 
 ---
 
 ## 📫 Let's Connect
 
-- 💬 **Discussions**: Open for collaboration and technical discussions
-- 🐛 **Issues**: Found a bug? Let me know and we'll fix it!
-- 💡 **Ideas**: Have an improvement? Let's discuss!
-- 📧 **Email**: rahat830611@gmail.com
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/rahat830611)
+প্রজেক্ট কোলাবোরেশন, ট্রেনিং বা যেকোনো টেকনিক্যাল ডিসকাশনের জন্য আমার সাথে যুক্ত হতে পারেন:
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codexvisual&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=codexvisual&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true)
-
-</div>
-
----
-
-## 💡 Philosophy
-
-> **"Great software is not just written. It is architected, tested, optimized, and continuously improved."**
-
-I believe in:
-- **Quality over quantity** - Writing code that matters
-- **Collaboration** - Building with and for the community
-- **Continuous improvement** - Always learning and evolving
-- **Accessibility** - Making technology for everyone
-- **Documentation** - Clear code that others can understand
+<p align="left">
+  <a href="mailto:rahat830611@gmail.com"><img src="https://img.shields.io/badge/Email-rahat830611%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rahat830611"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -202,8 +101,7 @@ I believe in:
 
 ### ⭐ If you find my projects helpful, please consider giving them a star! ⭐
 
-**Made with ❤️ by CodexVisual**
-
-*Last updated: June 2026* | Open to opportunities and collaborations
+**Made with ❤️ by CodexVisual**  
+*Last updated: June 2026*
 
 </div>
