@@ -69,8 +69,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codexvisual&show_icons=true&count_private=true&title_color=38B2AC&icon_color=EC4899&text_color=9f9f9f&bg_color=0d1117&hide_border=true&border_color=7C3AED" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexvisual&layout=compact&langs_count=8&title_color=38B2AC&text_color=9f9f9f&bg_color=0d1117&hide_border=true&border_color=7C3AED" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats-zeta-smoky-57.vercel.app/api?username=codexvisual&show_icons=true&count_private=true&title_color=38B2AC&icon_color=EC4899&text_color=9f9f9f&bg_color=0d1117&hide_border=true&border_color=7C3AED" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats-zeta-smoky-57.vercel.app/api/top-langs/?username=codexvisual&layout=compact&langs_count=8&title_color=38B2AC&text_color=9f9f9f&bg_color=0d1117&hide_border=true&border_color=7C3AED" alt="Top Languages" height="180em" />
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codexvisual&theme=darkhub&no-bg=true&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-ruby-one.vercel.app/?username=codexvisual&theme=darkhub&no-bg=true&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 </p>
 
 ---
